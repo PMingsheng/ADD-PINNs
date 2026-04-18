@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Artifacts / outputs
+Figure/
+output*/
+outputs*/
+data_output*/
+beam_bechmark_viz*/
+run_logs/
+checkpoints/
+snapshots/
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.npz
+*.pt
+*.pth
+*.csv
+*.xlsx
+*.log
